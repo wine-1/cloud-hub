@@ -1,11 +1,7 @@
 
 
 --[[
-
-	Onwer = redz
-  forked = Laelmano24 
-  motifed = ali *me*
-  
+خربانه لاتستخدمها
 ]]
 
 local MarketplaceService = game:GetService("MarketplaceService")
